@@ -48,12 +48,8 @@ Each field is validated before submission.
 3. Open `index.html` in your browser.
 
 ```
-git clone https://github.com/your-username/registration-form.git
-```
-
-## 📸 Preview
-
-Simple registration form interface with validation and styled input fields.
+git clone https://github.com/MeenaG86/RegistrationForm.git
+``
 
 ## 🎯 Learning Purpose
 
@@ -63,13 +59,6 @@ This project helps beginners understand:
 - Form validation using JavaScript
 - Styling forms with CSS
 - Handling user input
-
-## 📌 Future Improvements
-
-- Add password strength indicator
-- Add confirm password field
-- Store data using localStorage
-- Connect to backend database
 
 ## 👩‍💻 Author
 
